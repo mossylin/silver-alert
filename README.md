@@ -1,7 +1,1 @@
-# silver-alert
-bruh
-
-download zip
-open the zip
-extract zip
-then (dont) enjoy
+download project data, then download the project, then do stuff to get the thing working
