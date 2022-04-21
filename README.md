@@ -1,2 +1,7 @@
 # silver-alert
-brug
+bruh
+
+this a download thingy
+open the zip
+extract
+then (dont) enjoy
